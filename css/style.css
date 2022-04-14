@@ -6,10 +6,10 @@
 }
 
 body {
-    background-color: #b30000;
+    background-color: #CC0066;
 }
 
-#cabecalho-principal {
+header#cabecalho-principal {
     background-color: #dddddd;
     width: 100%;
     height: 40px;
@@ -89,7 +89,6 @@ body {
     height: 130px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
 }
-
 
